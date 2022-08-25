@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(240, 151, 166);
+    
+}
+.headers {
+    font-size: large;
+    color: white;
+}
+div h1:hover {
+    font-weight: bolder;
+    color: #000;
+}
+.buttons button {
+    background-color: rgb(237, 79, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(250, 206, 241);
+    font-weight: 500;
+}
+div img:hover {
+    width: 500px;
+    height: auto;
+}
+.oyster-header {
+    background-color: green;
+    text-align: center;
+}
+.home-button {
+background-color: blueviolet;
+width: 200px; height: auto;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 255, 255);
+}
+.ing-header {
+    background-color: green;
+    text-align: center;
+}
